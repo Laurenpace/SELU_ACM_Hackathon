@@ -4,9 +4,8 @@ title: Sponsorship Information
 ---
 
 
-<p><strong><u>About the Event&nbsp;</u></strong></p>
-<p><span style="font-weight: 400;">The Southeastern Louisiana University ACM Chapter</span> <span style="font-weight: 400;">is hosting a 24-hour hackathon at Southeastern Louisiana University. This is an event where attendees will be able to hone and show off their talents. It is open to current students and alumni. The event will commence on March 27th at 6 PM where we will make sure every competitor is on a team, discuss the prompt, and then allow the teams to break apart to work on their project. The teams will conclude working on their projects at 6 PM on March 28th. At that time we will have pizza available and begin judging the projects. We would like a panel of judges consisting of professionals from different local companies.&nbsp;</span></p>
-<p>&nbsp;</p>
+<p><strong>Thank you for considering sponsoring our event!&nbsp;</strong></p>
+
 <p><strong><u>Incentives</u></strong></p>
 <p><strong>See what those soon to enter the workforce have to offer.</strong> <span style="font-weight: 400;">We are proud of our department and students at Southeastern and would like to show off what the competitors are capable of.&nbsp;</span></p>
 <p><strong>Introduce your company. </strong><span style="font-weight: 400;">The attendees of the event will range from current students to alumni. Some of which are looking for jobs or internships currently or will be looking for jobs post graduation. This will be a wonderful time for you to introduce your company to the attendees and for our attendees to be aware of awesome local companies.&nbsp;</span></p>
