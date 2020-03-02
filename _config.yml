@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: SELU ACM Hackathon
-email: lauren.pace-2@selu.edu
+email: acm@selu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The SELU ACM is hosting a hackathon March 27-28.
 baseurl: "SELU_ACM_Hackathon" # the subpath of your site, e.g. /blog
