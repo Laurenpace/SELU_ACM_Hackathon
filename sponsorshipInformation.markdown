@@ -17,7 +17,7 @@ title: Sponsorship Information
 <p><span style="font-weight: 400;">Sponsorship money will be used as prize money for the winning teams, food, and funds for us to further our ACM organization.</span></p>
 <p>&nbsp;</p>
 <p><strong>Sponsor Information</strong></p>
-<p><span style="font-weight: 400;">Deadline to have logos included in event info is March 13th.</span></p>
+<p><span style="font-weight: 400;">Deadline to have logos included in event info is March 20th.</span></p>
 <p><span style="font-weight: 400;">Expected number of participants is 30. Will update sponsors as the event approaches.&nbsp;</span></p>
 <p><span style="font-weight: 400;">Set up for booths will be at 5:00 PM on the 28th.</span></p>
 <p><span style="font-weight: 400;">Judges should arrive by 5:30 on the 28th.&nbsp;</span></p>
